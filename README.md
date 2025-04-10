@@ -50,14 +50,13 @@ Astronauts face extreme challenges in managing onboard cargo in microgravity. As
 
 ## 🔷 Figma UI Design
 
-🎨 [View the Figma Design](https://www.figma.com/design/rEH7oDVqWg9HOJRTSAeizt/Untitled?node-id=0-1&t=xxVp5eAnnhhVdqw)
+🎨 [View the Figma Design](https://www.figma.com/design/rEH7oDVqWg9HOJRTSAeizt/Untilted?node-id=0-1&t=xxVp5eAnnhhVdqw)
 
 ---
 
 ## 📂 How to Run
 
-```bash
-# Clone Repo
+
 git clone https://github.com/vasu-z/astrogrid-cosmotics.git
 cd astrogrid-cosmotics
 
@@ -65,7 +64,6 @@ cd astrogrid-cosmotics
 docker-compose up --build
 
 # Visit localhost:8000/docs to access API docs
-```
 
 ---
 
