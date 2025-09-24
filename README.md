@@ -77,12 +77,3 @@ docker-compose up --build
 
 ---
 
-## 🧑‍🚀 Team Cosmotics
-
-AstroGrid is proudly developed by Team Cosmotics for the National Space Hackathon 2025.
-
- Developer: Vasu Gaur 
-Designer: Yadwinder Singh 
-
-
-Let's engineer space simplicity!
