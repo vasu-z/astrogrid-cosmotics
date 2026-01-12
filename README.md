@@ -48,11 +48,6 @@ Astronauts face extreme challenges in managing onboard cargo in microgravity. As
 
 ---
 
-## 🔷 Figma UI Design
-
-🎨 [View the Figma Design](https://www.figma.com/design/rEH7oDVqWg9HOJRTSAeizt/Untilted?node-id=0-1&t=xxVp5eAnnhhVdqw)
-
----
 
 ## 📂 How to Run
 
